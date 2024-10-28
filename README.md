@@ -25,7 +25,7 @@ Uma plataforma que conecta pessoas, empresas e ONGs para promover a energia limp
 
 ## Contato
 
-- 📧 Email: [seuemail@example.com](mailto:digohA4@gmail.com)
+- 📧 Email: [(mailto:digohA4@gmail.com)]
 - 🌐 LinkedIn: [linkedin.com/in/seu-perfil]((https://www.linkedin.com/in/rodrigo-dias-196985236/))
 
 
