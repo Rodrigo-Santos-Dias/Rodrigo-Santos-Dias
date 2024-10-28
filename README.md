@@ -11,7 +11,7 @@
 
 ## Projetos
 
-### [Luminar][([link-do-projeto](https://lnkd.in/dQR3SbmV))]
+### [Luminar][(https://lnkd.in/dQR3SbmV))]
 Uma plataforma que conecta pessoas, empresas e ONGs para promover a energia limpa e sustentável. Permite que usuários doem para ONGs que realizam projetos sustentáveis.
 
 
